@@ -1,0 +1,2 @@
+# studyFactoryMethod
+simple course
